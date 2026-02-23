@@ -166,7 +166,7 @@ class _CreateNewPasswordScreenState extends State<CreateNewPasswordScreen> {
                                 style: ElevatedButton.styleFrom(
                                   minimumSize: Size(200, 50),
                                 ),
-                                child: Text("Back to Home"),
+                                child: Text("Back to Home", style: TextStyle(color: Colors.black )),
                               ),
                             ],
                           ),

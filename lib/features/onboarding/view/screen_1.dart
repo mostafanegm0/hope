@@ -83,7 +83,7 @@ class _Screen1State extends State<Screen1> {
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 16),
               child: const Text(
-                "Lorem ipsum dolor sit amet consectetur. Lorem id sit",
+                "HOPE Starts here \nTogether, we stay stronger",
                 textAlign: TextAlign.start,
                 style: TextStyle(
                   color: Color(0xff5d5d5d),
